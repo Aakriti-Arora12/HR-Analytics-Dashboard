@@ -8,4 +8,4 @@ This Power BI report provides a comprehensive analysis of HR data, focusing on k
 - How does job satisfaction vary among employees with different performance ratings?
 - What is the average monthly income segmented by job role and gender?
 - How does employee attrition correlate with years at company and years in current role?
-- The dashboard is developed by me with the guuidance from the link : https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n
+ The dashboard is developed by me with the guuidance from the link : https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n
