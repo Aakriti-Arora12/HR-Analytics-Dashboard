@@ -1,3 +1,10 @@
 # HR-Analytics-Dashboard
 Objective - This Power BI report provides a comprehensive analysis of HR data, focusing on key metrics such as employee attrition, job satisfaction, performance, and workforce demographics.
+KPI's (Questions) :
+What is the overall employee attrition rate in the organization?
+Which departments have the highest and lowest attrition rates?
+What is the distribution of employees across different job roles and education levels?
+How does job satisfaction vary among employees with different performance ratings?
+What is the average monthly income segmented by job role and gender?
+How does employee attrition correlate with years at company and years in current role?
 The dashboard is developed by me with the guuidance from the link : https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n
