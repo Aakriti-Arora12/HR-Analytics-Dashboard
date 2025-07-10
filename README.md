@@ -10,4 +10,4 @@ This Power BI report provides a comprehensive analysis of HR data, focusing on k
 - How does employee attrition correlate with years at company and years in current role?
 ## Dashboard Interaction <a href="https://github.com/Aakriti-Arora12/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png">View Dashboard</a>
 ## Dataset <a href="https://github.com/Aakriti-Arora12/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv"> View Data</a>
-## The dashboard is developed by me with the guidance from the link <a href:"https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n">data</a>
+## The dashboard is developed by me with the guidance from the link : https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n
