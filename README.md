@@ -9,4 +9,5 @@ This Power BI report provides a comprehensive analysis of HR data, focusing on k
 - What is the average monthly income segmented by job role and gender?
 - How does employee attrition correlate with years at company and years in current role?
 ## Dashboard Interaction <a href="https://github.com/Aakriti-Arora12/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png">View Dashboard</a>
+## Dataset <a href="https://github.com/Aakriti-Arora12/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv"> View Data
 ## The dashboard is developed by me with the guuidance from the link : https://youtu.be/j4xlVLgsmNQ?si=2Aac1Hv3Eoz1y56n
